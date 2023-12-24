@@ -2,10 +2,12 @@
 
 <?php 
 
+    /*
     define('HOST', 'localhost');
-    define('DATABASENAME', 'crud-mvc-poo-php-gn');
-    define('USER', 'root2');
-    define('PASSWORD','root2');
+    define('DATABASENAME', 'NOME DO SEU BANCO DE DADOS');
+    define('USER', 'NOME DO SEU USUARIO');
+    define('PASSWORD','SENHA');
+    */
 
     class Connect{
         protected $connection;
